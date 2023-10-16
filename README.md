@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @joaobastosmello
-- 👀 Sou fã de Desenvolvimento Web/Mobile
-- 🌱 Constante aprendizado de JS, PHP 
+- 👋 Hi! I'm João Gabriel Bastos!
+- 👀 Front-End Developer
+- 🌱 constant learning in JavaScript, ReactJS e PHP. 
 
 
 <!---
