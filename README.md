@@ -1,6 +1,6 @@
 - 👋 Hi! I'm João Gabriel Bastos!
 - 👀 Front-End Developer
-- 🌱 constant learning in JavaScript, ReactJS e PHP. 
+- 🌱 Constant learning in JavaScript, ReactJS e PHP. 
 
 
 <!---
