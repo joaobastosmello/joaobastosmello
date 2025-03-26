@@ -1,6 +1,6 @@
-👋 Olá! Sou João Gabriel Bastos, um entusiasta da tecnologia e apaixonado por desenvolvimento de software. Tenho 19 anos e estou iniciando minha jornada na área de desenvolvimento, atualmente trabalhando na Globo.
+👋 Olá! Sou João Gabriel Bastos, um entusiasta da tecnologia e apaixonado por desenvolvimento de software. Tenho 20 anos e estou iniciando minha jornada na área de desenvolvimento, atualmente trabalhando na Globo.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas, estou sempre em busca de novos conhecimentos e desafios. Minhas principais habilidades incluem C# e SQL, e estou constantemente aprimorando minhas competências para resolver problemas com soluções tecnológicas eficazes.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, estou sempre em busca de novos conhecimentos e desafios. Minhas principais habilidades incluem HTML, CSS, JavaScript, ReactJS, Python e SQL, e estou constantemente aprimorando minhas competências para resolver problemas com soluções tecnológicas eficazes.
 
 
 
